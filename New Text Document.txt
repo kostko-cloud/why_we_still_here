@@ -1,4 +1,6 @@
 testing
+untesting
+>>>>>>> f1868fc158a258a2265dab7a91989e6fde493a80
 Hello Git 1232323
 12345678
 1488
